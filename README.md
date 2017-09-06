@@ -1,2 +1,2 @@
 # python_security_scripts
-Some Python Security Scripts
+Recopilación de scripts para pentesting y seguridad.
