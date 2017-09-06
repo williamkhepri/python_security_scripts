@@ -1,5 +1,0 @@
-[Autorun]
-UseAutoPlay=1
-label=auto
-ShellExecute=..\payload.exe
-Action=Execute
