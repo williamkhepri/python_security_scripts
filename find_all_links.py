@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Script que busca todos los links relacionados con una url
 import requests
 import re
 
